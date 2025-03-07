@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+custom_sale_report.access_sale_order_report_wizard,access_sale_order_report_wizard,custom_sale_report.model_sale_order_report_wizard,base.group_user,1,1,1,1
+custom_sale_report.access_sale_details_wiz,access_sale_details_wiz,custom_sale_report.model_sale_details_wiz,base.group_user,1,1,1,1
+custom_sale_report.access_customer_sales_report,access_customer_sales_report,custom_sale_report.model_customer_sales_report,base.group_user,1,1,1,1
